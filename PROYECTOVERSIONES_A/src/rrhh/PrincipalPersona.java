@@ -10,6 +10,7 @@ public static void main(String[] args) {
 		String nombre, apellidos, fecha_cumple, sexo; 
 		int edad;
 		
+		System.out.println("***INICIO DE LA APLICACIÓN ***");
 		System.out.println("Introduce el nombre de la persona 1: ");
 		nombre = sc.nextLine();
 		System.out.println("Introduce los apellidos de la persona 1: ");
